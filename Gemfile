@@ -46,6 +46,6 @@ group :development do
 end
 
 #the prettiez
-gem 'bootstrap-sass', '~> 3.2.0'
+gem 'bootstrap-sass', '~> 3.3.6'
 gem 'autoprefixer-rails'
 gem 'font-awesome-rails'
