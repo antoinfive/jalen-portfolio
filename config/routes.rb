@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
+  resources :welcomes
   resources :sessions
   resources :arts
   resources :admins
   # resources :portfolio
-  root "arts#index"
+  root "welcomes#index"
 end

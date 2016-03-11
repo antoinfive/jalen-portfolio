@@ -26,5 +26,4 @@
 //= require wow.min
 //= require contact
 //= require custom
-
 //= require_tree .
